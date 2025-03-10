@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Meu nome é Paulo Lopes</h1>
+<h1 align="center">Olá 👋 Meu nome é Paulo Lopes</h1>
 <h3 align="center">Sou fissurado em gerar insigths através de Dados!</h3>
 
 - 🔍 Atualmente trabalho com Análista de Operações Financeiras no setor de Shopping Center **Jereissati Centros Comerciais**
