@@ -3,8 +3,9 @@
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
-- 🔍 Atualmente trabalho com Análista de Operações Financeiras no setor de Shopping Center na **Jereissati Centros Comerciais**
-- 📖 Já tenho uma vasta experiência em Excel, mas estou aprendendo mais sobre **SQL, Power BI e Python**
+- 💰 Sou Análista de Operações Financeiras no setor de Shopping Center na **Jereissati Centros Comerciais**
+- 🎓 Formado em Ciências Econômicas pela UFC
+- 📖 Tenho uma vasta experiência em Excel, mas estou aprendendo mais sobre **SQL, Power BI e Python**
 - 💬 Me pergunte sobre **Excel, Power BI e SQL**
 - 📫 Você me acha através do e-mail **pa.lopes@outlook.com**
 - 📄 Fui fundada por Paulo Lopes e aqui estão as minhas habilidades [https://www.linkedin.com/in/paalopes/](https://www.linkedin.com/in/paalopes/)
