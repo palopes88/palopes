@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋 Meu nome é Paulo Lopes</h1>
 <h3 align="center">Sou fissurado em gerar insigths através de Dados!</h3>
 
-- 🔍 Atualmente trabalho com Análista de Operações Financeiras no setor de Shopping Center **Jereissati Centros Comerciais**
+- 🔍 Atualmente trabalho com Análista de Operações Financeiras no setor de Shopping Center na **Jereissati Centros Comerciais**
 
 - 📖 Já tenho uma vasta experiência em Excel, mas estou aprendendo mais sobre **SQL, Power BI e Python**
 
